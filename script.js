@@ -41,6 +41,21 @@ const STUDENTS = {
     ],
   },
 
+
+  "25105108054": {
+    name: "akash kumar",
+    program: "B.Tech Computer Science",
+    semester: "Semester 3",
+    courses: [
+      { code: "CS301", name: "Data Structures & Algorithms", credits: 4, marks: 27, max: 30 },
+      { code: "CS302", name: "Digital electronic", credits: 4, marks: 26, max: 30 },
+      { code: "CS303", name: "Operating Systems", credits: 4, marks: 25, max: 30 },
+      { code: "CS304", name: "jawa", credits: 3, marks: 23, max: 30 },
+      { code: "MA305", name: "Discrete Mathematics", credits: 3, marks: 29, max: 30 },
+      { code: "HS306", name: "UHV", credits: 2, marks: 28, max: 30 },
+    ],
+  },
+
   "25105108028": {
     name: "ishu kumar",
     program: "B.Tech Computer Science",
